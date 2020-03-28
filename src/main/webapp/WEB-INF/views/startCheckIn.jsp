@@ -10,6 +10,5 @@
     Enter the Reservation Id: <input type="text" name="reservationId"/>
     <input type="submit" value="Start Checkin"/>
 </form>
-</table>
 </body>
 </html>
